@@ -27,12 +27,12 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [...](https://github.com/trMuniz);
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning React; 
 - 👯 I’m looking to collaborate on [...](https://github.com/trMuniz) 🤝;
 - 🤔 I’m looking for help with Java 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping Selenium/Cucumber;
-- 📫 How to reach me: muniz.tr@gmail.com;
+- 📫 How to reach me: muniz@duck.com;
 - 📝[Resume](https://thiagomuniz.dev).
 
 **Languages and Tools:**  
